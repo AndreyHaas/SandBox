@@ -3,9 +3,6 @@ package com.haas.nsk.andy.utils.dateUtils;
 import org.junit.Assert;
 import org.junit.Test;
 
-import java.text.ParseException;
-import java.util.Date;
-
 public class DateUtilsTest {
 
     DateUtils utils = new DateUtils();
