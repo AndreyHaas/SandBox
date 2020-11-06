@@ -1,4 +1,4 @@
-package com.haas.nsk.andy;
+package com.haas.nsk.andy.events;
 
 import lombok.Data;
 
