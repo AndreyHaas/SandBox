@@ -7,6 +7,13 @@
     <groupId>com.haas.andy</groupId>
     <artifactId>TemporaryProject</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <developers>
+        <developer>
+            <name>Andreas Haas</name>
+            <email>andy.haas.nsk@gmail.com</email>
+            <organization>Nuclear Center</organization>
+        </developer>
+    </developers>
 
     <name>SandBox</name>
 
